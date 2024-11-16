@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "711008496705",
+    "project_id": "authentication-task-c0edd",
+    "storage_bucket": "authentication-task-c0edd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711008496705:android:0040b8c1c08dd4b667eac0",
+        "android_client_info": {
+          "package_name": "com.Abs.AI.authentication_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArLxpFyTzQ0a4HKEnWKDk1VV_zOsmgIjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711008496705:android:047622032ee0724667eac0",
+        "android_client_info": {
+          "package_name": "com.example.authenticationTask"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArLxpFyTzQ0a4HKEnWKDk1VV_zOsmgIjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
